@@ -1,4 +1,4 @@
-Python File Cryptographer cryptographer.py
+Python File Cryptographer whatainnocentprogram.py
 
 Programın temel amacı bir anahtar girdisiyle birlikte dosya şifrelemek bu şifre ile dosyayı çözümleyerek gizlilik sağlamaktır. Kod dizisi içerisinde yorum satırları ile kodun işlevini neyin ne işe yaradığını anlattım dosya üzerinden inceleyebilirsiniz.
 
