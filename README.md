@@ -1,5 +1,16 @@
-Python File Cryptographer whatainnocentprogram.py
+<h2>Python File Encryptor-Decryptor</h2>
+The main purpose of the program is to encrypt the files that you want to keep secret by giving them a key value and to ensure confidentiality by decrypting them with this key value whenever you want. You can examine the function of the code through the comment lines in the code sequence, through the file I explained.
 
-Programın temel amacı bir anahtar girdisiyle birlikte dosya şifrelemek bu şifre ile dosyayı çözümleyerek gizlilik sağlamaktır. Kod dizisi içerisinde yorum satırları ile kodun işlevini neyin ne işe yaradığını anlattım dosya üzerinden inceleyebilirsiniz.
+<h2>Installing</h2>
 
-Kodun kullanım şekli ->  python whatainnocentprogram.py hedefDosya -e ve ya -d KEY(integer)   şeklinde.
+``` git clone https://github.com/NorthNo/filecryptor ``` <br>
+``` cd filecryptor ``` <br>
+``` pip install -r requirements.txt ``` <br>
+
+<h2>Using FileCryptor</h2>
+
+The program might get 3 argument, its target file path, -d decode or -e encode and your private key you can use random key but dont forget it you need again for decode.<br>
+``` python whatainnocentprogram.py target_file_path (-d or -e) key(int) ```
+
+<h2>License</h2>
+I dont have because its a fckn 86 line nvm Thanks for using.
